@@ -1,0 +1,1 @@
+This project focuses on detecting whether an email is spam or not (ham) using a classification algorithm. The main objective is to develop a model that can accurately classify emails into these two categories based on their content. The project involves feature extraction, model training, and evaluation using preprocessed data.
